@@ -1,5 +1,5 @@
 {
-  "name": "learnstorybook-design-system-template",
+  "name": "@przemuh/storybook-design-system",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -58,7 +58,16 @@
     "@storybook/node-logger": "^6.3.7",
     "@storybook/preset-create-react-app": "^3.2.0",
     "@storybook/react": "^6.3.7",
+    "auto": "^10.31.0",
     "chromatic": "^5.9.2",
     "prettier": "^2.3.2"
+  },
+  "repository": "przemuh/storybook-design-system",
+  "author": "przemuh <przemuh@gmail.com>",
+  "auto": {
+    "plugins": [
+      "npm"
+    ],
+    "onlyPublishWithReleaseLabel": true
   }
 }
