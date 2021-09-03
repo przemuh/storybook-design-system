@@ -1,3 +1,15 @@
+# v0.2.1 (Fri Sep 03 2021)
+
+#### 🐛 Bug Fix
+
+- remove border from button [#3](https://github.com/przemuh/storybook-design-system/pull/3) ([@przemuh](https://github.com/przemuh))
+
+#### Authors: 1
+
+- Przemek ([@przemuh](https://github.com/przemuh))
+
+---
+
 # v0.2.0 (Fri Sep 03 2021)
 
 #### 🚀 Enhancement
